@@ -65,10 +65,10 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.mycompany.app.StockQuoteTest" name="testGetSymbolPositive" time="0"/>
-  <testcase classname="com.mycompany.app.StockQuoteTest" name="testGetPriceNegative" time="0"/>
-  <testcase classname="com.mycompany.app.StockQuoteTest" name="testGetSymbolNegative" time="0"/>
   <testcase classname="com.mycompany.app.StockQuoteTest" name="testGetCurrDatePositive" time="0"/>
   <testcase classname="com.mycompany.app.StockQuoteTest" name="testGetCurrDateNegative" time="0"/>
   <testcase classname="com.mycompany.app.StockQuoteTest" name="testGetPricePositive" time="0"/>
+  <testcase classname="com.mycompany.app.StockQuoteTest" name="testGetSymbolNegative" time="0"/>
+  <testcase classname="com.mycompany.app.StockQuoteTest" name="testGetSymbolPositive" time="0"/>
+  <testcase classname="com.mycompany.app.StockQuoteTest" name="testGetPriceNegative" time="0"/>
 </testsuite>
