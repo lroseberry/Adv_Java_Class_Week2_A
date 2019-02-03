@@ -1,0 +1,4 @@
+com\mycompany\app\StockServiceFactory.class
+com\mycompany\app\BasicStockService.class
+com\mycompany\app\StockQuote.class
+com\mycompany\app\StockService.class
