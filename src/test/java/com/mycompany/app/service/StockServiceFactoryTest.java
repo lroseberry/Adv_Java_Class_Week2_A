@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package com.mycompany.app.service;
 
 import org.junit.Before;
 import org.junit.Test;
